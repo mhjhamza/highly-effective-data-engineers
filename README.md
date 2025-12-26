@@ -7,7 +7,7 @@
 - Passive Income
 - Software company!
 
-
+# Week 01 of 2026
 ## Day 01 | December 26, 2025
 Today, I started the $10KDataSkills challenge!
 - This will include whatever I learn on a daily basis.
