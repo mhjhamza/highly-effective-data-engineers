@@ -1,7 +1,7 @@
 # Data Skills worth $10,000
 
 
-# Day 01 | December 26, 2025
+## Day 01 | December 26, 2025
 Today, I started the $10KDataSkills challenge!
 - This will include whatever I learn on a daily basis.
 - This also includes the YouTube videos / Podcasts I'll be producing
