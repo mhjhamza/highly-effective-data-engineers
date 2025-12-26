@@ -1,4 +1,11 @@
-# Data Skills worth $10,000
+# Data Skills for a $10,000 Remote Career
+
+**Goals:**
+- $10K Salary
+- Personal branding
+- Networking
+- Passive Income
+- Software company!
 
 
 ## Day 01 | December 26, 2025
